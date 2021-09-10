@@ -4,7 +4,10 @@
 
 ### **I'm Aman Upadhyay,**
 #### *A passionate self taught developer, software developer and freelancer from India*
+
 #### My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the Experience, Code quality and Connecting with the Client.
+
+#### *Looking forward to contribute to the world of Open source and contribute something which creates a positive impact.*
 <br>
 
 <code>
