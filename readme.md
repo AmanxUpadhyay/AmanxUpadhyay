@@ -39,8 +39,9 @@
     Languages and Tools
 </h3>
 <br>
+
 <h4 align="right">
-    <h4 align="left">Languages: </h4>
+Languages: <br>
     <code>
     <img width="26" src="asset/cpp.svg"> C / C++ Programming
     </code>
@@ -49,15 +50,7 @@
     <img width="26" src="asset/java.svg"> Java Programming
     </code>
 </h4>
+
 <br>
-<h4 align="left">
-    <code>
-    <img width="26" src="asset/bootstrap.png"> Bootstrap Development
-    </code>
-&nbsp;
-    <code>
-    <img width="26" src="asset/laravel.png"> PHP Laravel Development
-    </code>
-</h4>
 
 </p>
