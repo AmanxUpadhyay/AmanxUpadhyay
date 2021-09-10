@@ -35,8 +35,8 @@
 
 <p align="center">
 
-<font size="5">
+<h2 align="center">
     Languages and Tools
-</font>
+</h2>
 
 </p>
