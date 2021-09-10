@@ -33,6 +33,8 @@
 
 ---
 
+<br>
+
 <p align="center">
 
 <h3 align="center">
@@ -54,6 +56,21 @@ Languages: <br>
     </code>
 </h4>
 
-<br>
+<h4 align="left">
+Frameworks: <br>
+    <code>
+    <img width="26" src="asset/laravel.png"> Laravel Development
+    </code>
+&nbsp;
+    <code>
+    <img width="26" src="asset/bootstrap.png"> Bootstrap Development
+    </code>
+&nbsp;
+    <code>
+    <img width="26" src="asset/javascript.svg"> JS Frameworks
+    </code>
+</h4>
 
 </p>
+
+---
