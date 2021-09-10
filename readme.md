@@ -10,21 +10,21 @@
 <br>
 
 <code>
-    <a href="https:">
+    <a href="https://www.linkedin.com/in/aman-upadhyay-02">
         <img width="26" src="asset/linkedin.svg">
         LinkedIn
     </a>
 </code>
 &nbsp;
 <code>
-    <a href="https:">
+    <a href="https://twitter.com/Aman_Upadhyay02">
         <img width="26" src="asset/twitter.svg">
         Twitter
     </a>
 </code>
 &nbsp;
 <code>
-    <a href="https:">
+    <a href="https://www.fiverr.com/badshahaman">
         <img width="26" src="asset/fiverr.svg">
         Fiverr
     </a>
