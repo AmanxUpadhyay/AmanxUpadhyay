@@ -39,4 +39,16 @@
     Languages and Tools
 </h3>
 
+<h4 align="right">
+<code>
+<img width="26" src="asset/cpp.svg"> C / C++ Programming
+</code>
+</h4>
+
+<h4 align="left">
+<code>
+<img width="26" src="asset/cpp.svg"> C / C++ Programming
+</code>
+</h4>
+
 </p>
