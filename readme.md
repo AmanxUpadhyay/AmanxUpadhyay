@@ -59,15 +59,18 @@ Languages: <br>
 <h4 align="left">
 Frameworks: <br>
     <code>
-    <img width="26" src="asset/laravel.png"> Laravel Development
+    Laravel Development
+    <img width="26" src="asset/laravel.png">
     </code>
 &nbsp;
     <code>
-    <img width="26" src="asset/bootstrap.png"> Bootstrap Development
+    Bootstrap Development
+    <img width="26" src="asset/bootstrap.png">
     </code>
 &nbsp;
     <code>
-    <img width="26" src="asset/javascript.svg"> JS Frameworks
+    JS Frameworks
+    <img width="26" src="asset/javascript.svg">
     </code>
 </h4>
 
