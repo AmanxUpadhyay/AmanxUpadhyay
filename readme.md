@@ -40,6 +40,7 @@
 </h3>
 <br>
 <h4 align="right">
+    <h4 align="left">Languages: </h4>
     <code>
     <img width="26" src="asset/cpp.svg"> C / C++ Programming
     </code>
