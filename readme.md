@@ -33,28 +33,10 @@
 
 ---
 
-<p align="right">
+<p align="center">
 
-### Languages and Tools
-
-<code>
-    <img src="asset/cpp.svg" width="26"> C/C++ Programming
-</code>
-<code>
-    <img src="asset/cpp.svg" width="26"> C/C++ Programming
-</code>
-
-</p>
-
-<p align="left">
-
-### Languages and Tools
-
-<code>
-    <img src="asset/cpp.svg" width="26"> C/C++ Programming
-</code>
-<code>
-    <img src="asset/cpp.svg" width="26"> C/C++ Programming
-</code>
+<font size="5">
+    Languages and Tools
+</font>
 
 </p>
