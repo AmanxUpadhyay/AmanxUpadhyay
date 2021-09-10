@@ -15,6 +15,7 @@
         LinkedIn
     </a>
 </code>
+&nbsp;
 <code>
     <a href="https:">
         <img width="26" src="asset/twitter.svg">
