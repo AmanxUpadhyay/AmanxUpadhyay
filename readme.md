@@ -48,6 +48,10 @@ Languages: <br>
     <code>
     <img width="26" src="asset/java.svg"> Java Programming
     </code>
+&nbsp;
+    <code>
+    <img width="26" src="asset/python.svg"> Python Programming
+    </code>
 </h4>
 
 <br>
