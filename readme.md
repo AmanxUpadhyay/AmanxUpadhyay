@@ -38,7 +38,6 @@
 <h3 align="center">
     Languages and Tools
 </h3>
-<br>
 
 <h4 align="right">
 Languages: <br>
