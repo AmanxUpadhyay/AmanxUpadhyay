@@ -78,8 +78,8 @@ Frameworks: <br>
 
 ### GitHub Analytics:
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanxUpadhyay&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanxUpadhyay&custom_title=Languages%20and%20Frameworks&langs_count=10&theme=algolia&hide_border=true"/>
 
 *Contributions*
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AmanxUpadhyay&theme=material-palenight">
+<img src="https://activity-graph.herokuapp.com/graph?username=AmanxUpadhyay&theme=material-palenight&hide_border=true">
