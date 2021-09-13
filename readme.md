@@ -78,7 +78,7 @@ Frameworks: <br>
 
 ### GitHub Analytics:
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanxUpadhyay&custom_title=Languages%20and%20Frameworks&langs_count=10&theme=algolia&hide_border=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanxUpadhyay&langs_count=10&theme=algolia&hide_border=true"/>
 
 *Contributions*
 
