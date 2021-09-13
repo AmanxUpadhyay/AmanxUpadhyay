@@ -76,7 +76,10 @@ Frameworks: <br>
 
 ---
 
-### GitHub Analytics
+### GitHub Analytics:
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanxUpadhyay&layout=compact&langs_count=8&theme=algolia"/>
+
 *Contributions*
 
 <img src="https://activity-graph.herokuapp.com/graph?username=AmanxUpadhyay&theme=nord">
