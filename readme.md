@@ -11,14 +11,14 @@
 <br>
 
 <code>
-    <a href="https://www.linkedin.com/in/aman-upadhyay-02">
+    <a href="https://www.linkedin.com/in/amanxupadhyay/">
         <img width="26" src="asset/linkedin.svg">
         LinkedIn
     </a>
 </code>
 &nbsp;
 <code>
-    <a href="https://twitter.com/Aman_Upadhyay02">
+    <a href="https://twitter.com/AmanxUpadhyay">
         <img width="26" src="asset/twitter.svg">
         Twitter
     </a>
