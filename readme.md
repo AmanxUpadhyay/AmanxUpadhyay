@@ -82,5 +82,3 @@ Frameworks: <br>
 
    *Contributions*
 <img src="https://activity-graph.herokuapp.com/graph?username=AmanxUpadhyay&theme=material-palenight&hide_border=true">
-
-Random
