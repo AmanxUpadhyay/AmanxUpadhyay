@@ -1,6 +1,6 @@
 <img src="asset/hacker.gif" width="350px" align="right">
 
-#Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+#Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### **I'm Aman Upadhyay,**
 #### *A passionate self taught developer, software developer and freelancer from India*
