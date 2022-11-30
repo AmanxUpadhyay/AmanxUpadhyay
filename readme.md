@@ -80,7 +80,4 @@ Frameworks: <br>
 
 <img src="asset/github-user-contribution.svg"/>
 
-<!--    *Contributions* -->
-<img src="https://activity-graph.herokuapp.com/graph?username=AmanxUpadhyay&theme=material-palenight&hide_border=true">
-
 [![@amanxupadhyay's Holopin board](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
