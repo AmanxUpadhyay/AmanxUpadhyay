@@ -75,9 +75,13 @@ Frameworks: <br>
 </p>
 
 ---
+3rd Place in IEEE & ACM Code sprint 1.0 also scored full points. 
+(Total Participants: 230)
+250th Rank in World Programming Championship | Techfest, IIT Bombay 2021
+(Total Participants: 85000)
 
-### GitHub Analytics:
-
-<img src="asset/github-user-contribution.svg"/>
+* Built Front-End for an Incubation.
+* Built Back-End for Online Examination Portal using OOPs MariaDB and PHP.
+* Built Landing Page for Startups and small business using Elementor driving 70% sales.
 
 [![@amanxupadhyay's Holopin board](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
