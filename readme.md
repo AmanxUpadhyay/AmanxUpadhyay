@@ -1,87 +1,86 @@
-<img src="asset/hacker.gif" width="350px" align="right">
+<!-- Header -->
+<h1 align="center">
+  <img src="https://your-image-url.com/your-logo.png" alt="Your Logo">
+  <br>
+  AMAN UPADHYAY
+</h1>
+<p align="center">Software Developer • Web Developer • Full-Stack Developer</p>
 
-# Hey there,
-
-### **I'm Aman Upadhyay,**
-#### *A passionate self taught developer, software developer and freelancer from India*
-
-#### My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the Experience, Code quality and Connecting with the Client.
-
-#### *Looking forward to contribute to the world of Open source and contribute something which creates a positive impact.*
-<br>
-
-<code>
-    <a href="https://www.linkedin.com/in/amanxupadhyay/">
-        <img width="26" src="asset/linkedin.svg">
-        LinkedIn
-    </a>
-</code>
-&nbsp;
-<code>
-    <a href="https://twitter.com/AmanxUpadhyay">
-        <img width="26" src="asset/twitter.svg">
-        Twitter
-    </a>
-</code>
-&nbsp;
-<code>
-    <a href="https://www.fiverr.com/badshahaman">
-        <img width="26" src="asset/fiverr.svg">
-        Fiverr
-    </a>
-</code>
-
----
-
+<!-- Contact Information -->
 <p align="center">
-
-<h3 align="center">
-    Languages and Tools
-</h3>
-
-<h4 align="right">
-Languages: <br>
-    <code>
-    <img width="26" src="asset/cpp.svg"> C / C++ Programming
-    </code>
-&nbsp;
-    <code>
-    <img width="26" src="asset/java.svg"> Java Programming
-    </code>
-&nbsp;
-    <code>
-    <img width="26" src="asset/python.svg"> Python Programming
-    </code>
-</h4>
-
-<h4 align="left">
-Frameworks: <br>
-    <code>
-    Laravel Development
-    <img width="26" src="asset/laravel.png">
-    </code>
-&nbsp;
-    <code>
-    Bootstrap Development
-    <img width="26" src="asset/bootstrap.png">
-    </code>
-&nbsp;
-    <code>
-    JS Frameworks
-    <img width="26" src="asset/javascript.svg">
-    </code>
-</h4>
-
+  Ghazipur, UP 233001 | +91 8299115962<br>
+  amanxupadhyay@outlook.com | [LinkedIn](https://www.linkedin.com/in/aman-upadhyay/) | [GitHub](https://github.com/yourusername)
 </p>
 
----
-3rd Place in IEEE & ACM Code sprint 1.0 also scored full points. 
-(Total Participants: 230)
-250th Rank in World Programming Championship | Techfest, IIT Bombay 2021
-(Total Participants: 85000)
+<!-- Quote -->
+<blockquote align="center">
+  “Aman Upadhyay is one of the most intelligent and outgoing people I have met. His expertise in coding and programming, as well as his engaging personality, makes him the complete package. He is exactly the type of person you would want on your team.”<br>
+  – Scott Malgieri, IT Analyst - The State of New Jersey
+</blockquote>
 
-* Built Front-End for an Incubation.
-* Built Back-End for Online Examination Portal using OOPs MariaDB and PHP.
-* Built Landing Page for Startups and small business using Elementor driving 70% sales.
+<!-- Uniqueness & Character -->
+<p align="center">
+  🚀 A skilled software developer with several years of experience delivering successful projects through exceptional coding abilities, innovative problem-solving, and refined development skills.
+  <br>
+  🌟 An experienced team leader and mentor, committed to providing clear vision, meaningful feedback, and motivating juniors to achieve unprecedented results. Have developed 5 team members who today are successful software developers.
+  <br>
+  💻 Proficient in several programming languages and technologies such as Python, Java, SQL, C++, Web development, Graphic design, and image processing. Strong understanding of software development best practices, database design, and Agile methodologies.
+  <br>
+  🌱 An enthusiastic student with a proven track record of delivering successful software development projects and leading high-performing teams, while also consistently contributing to Open-source events like Hack This Fall, Hacktoberfest since 2019, 20, 21, 22 with an average of 8 pull requests merged year on year.
+</p>
 
-[![@amanxupadhyay's Holopin board](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
+<!-- Emphasized Expertise -->
+## 💼 AREAS OF EXPERTISE
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Agile Methodologies
+- Project Management
+- Git/GitHub
+- Web Development (HTML/CSS, JavaScript, PHP, Bootstrap)
+- Database Design (SQL/NoSQL)
+- Technical Writing
+- Problem-Solving
+- C/C++
+- Java
+- Python
+
+<!-- Education & Projects -->
+## 🎓 EDUCATION & PROJECTS
+**Bachelor of Computer Applications, Computer Science** (08/2020 – 06/2023)
+Amity University, Kolkata, West Bengal
+- 🏆 3rd place at Code Sprint – Hackathon (IEEE & ACM)
+- 📚 Research work on 3D password generation & Angle Vision.
+- 👔 Participated and managed many conferences.
+- 🥇 10 Grade Point in Data Structures & Algorithm course.
+
+### 🚀 PROJECTS
+1. **Online Examination Portal**
+   Tech used: Custom CSS, JS, and PHP.
+   - Data validation and anti-SQL injection.
+   - Data encryption, authentication, and CRUD functionalities.
+
+2. **Shopping Mart POS**
+   Implemented a fully functional CRUD with add-to-cart and billing system using C++.
+
+<!-- Professional Experience -->
+## 👔 PROFESSIONAL EXPERIENCE
+**Full-Stack Developer - Intern** (06/2022 – 08/2022)
+ProGrad, Bengaluru, India
+- Led a team of developers, mentored and provided guidance.
+- Beautiful implementation of Kanban board with CRUD functionality.
+- Worked on Props & State, Routing, Hooks, Axios, and Express.
+- Backend creation using MongoDB, Postman. Created projects like Pro-Note, Pro-Nutrition, Pro-Trips, Pro-Books, etc.
+
+**WordPress Developer - Intern** (10/2021 – 01/2022)
+Tech2Edge, New Delhi, India
+- Developed landing page for clients, e.g., Nutrition Pro.
+- Gained understanding of Elementor and WooCommerce.
+
+<!-- Volunteerism & Certificates -->
+## 🌱 VOLUNTEERISM & CERTIFICATES
+- Maintainer & Community Manager at Aviyel, an Open-Source Company with a mission to make open source sustainable 🌱.
+- Lead Developer & Blog Writer at InsightGro, a platform built to help students land internships.
+- Freelanced at Fiverr, Upwork during the pandemic. Worked on web & console-based applications.
+- Accenture Discovery Program at Accenture, Virtual internship Program.
+- Engineering: Undergraduate & Masters Asia Virtual Experience Program at Microsoft, Virtual internship Program.
+- Hack This Fall Season 2 at MLH, 48hrs coding challenge to create web apps.
