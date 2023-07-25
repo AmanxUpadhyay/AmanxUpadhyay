@@ -32,3 +32,5 @@
   - Lead Developer & Blog Writer at ***InsightGro***, a platform built to help students land internships.
   - Freelanced at ***Fiverr***, ***Upwork*** during the pandemic. Worked on web & console-based applications.
   - ***Hack This Fall Season 2*** at MLH, 48hrs coding challenge to create web apps.
+
+  [![An image of @amanxupadhyay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
