@@ -1,6 +1,5 @@
 ![Banner](dist/banner.png)
 
-&nbsp;
 [![LinkedIn](
     https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=a2d2ff
 )](https://www.linkedin.com/in/amanxupadhyay/)
@@ -18,11 +17,8 @@
 )](https://www.fiverr.com/badshahaman)
 =
 
-<h3 align="center" style="font-family: cursive;">
-    Software Developer • Web Developer • Full-Stack Developer
-</h3>
+### Software Developer • Web Developer • Full-Stack Developer
 
----
 
 ### 🎓 EDUCATION & PROJECTS
 **Bachelor of Computer Applications, Computer Science** (Amity University)
