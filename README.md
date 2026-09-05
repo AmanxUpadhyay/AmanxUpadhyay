@@ -64,10 +64,6 @@
 - Lead Developer & Blog Writer at **InsightGro** (student internships platform)
 - 3rd place, Code Sprint Hackathon (IEEE & ACM); Hack This Fall S2 (MLH)
 
-<p align="center">
-  <a href="https://holopin.io/@amanxupadhyay"><img src="https://holopin.me/amanxupadhyay" alt="Holopin badges" /></a>
-</p>
+[![Holopin badges](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
 
-<p align="center">
-  <a href="https://outcode.lol/u/AmanxUpadhyay"><img src="https://outcode.lol/snippet/AmanxUpadhyay.svg?period=year&amp;layout=wide" alt="Outcode rank and score" /></a>
-</p>
+[![Outcode rank and score](https://outcode.lol/snippet/AmanxUpadhyay.svg?period=year&layout=wide)](https://outcode.lol/u/AmanxUpadhyay)
