@@ -1,18 +1,22 @@
-<div align="center">
+<p align="center">
+  <img src="dist/banner.png" alt="Banner" />
+</p>
 
-![Banner](dist/banner.png)
+<h1 align="center">Aman Upadhyay</h1>
 
-# Aman Upadhyay
+<p align="center">
+  <strong>Full-stack engineer building AI products end to end - web, native iOS, and backend platforms.</strong>
+</p>
 
-**Full-stack engineer building AI products end to end - web, native iOS, and backend platforms.**
+<p align="center">
+  I take products from a contract-first API to the app people actually touch: LLM-backed features, generated client SDKs, installable PWAs, and native iOS - shipped on Azure, Supabase, and AWS.
+</p>
 
-I take products from a contract-first API to the app people actually touch: LLM-backed features, generated client SDKs, installable PWAs, and native iOS - shipped on Azure, Supabase, and AWS.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanxupadhyay/)
-[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AmanxUpadhyay)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanxUpadhyay)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanxupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/AmanxUpadhyay"><img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://github.com/AmanxUpadhyay"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</p>
 
 ## What I build
 
@@ -60,9 +64,6 @@ I take products from a contract-first API to the app people actually touch: LLM-
 - Lead Developer & Blog Writer at **InsightGro** (student internships platform)
 - 3rd place, Code Sprint Hackathon (IEEE & ACM); Hack This Fall S2 (MLH)
 
-<div align="center">
-
 [![Holopin badges](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
 
-</div>
 [![Outcode rank and score](https://outcode.lol/snippet/AmanxUpadhyay.svg?period=year&layout=wide)](https://outcode.lol/u/AmanxUpadhyay)
