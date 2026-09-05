@@ -51,25 +51,6 @@ I take products from a contract-first API to the app people actually touch: LLM-
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Featured
-
-| Project | What it is |
-| --- | --- |
-| [jugalbandi](https://github.com/AmanxUpadhyay/jugalbandi) | Paired habit-tracking PWA - build daily habits with a partner through shared streaks and sprints |
-| [dotfiles](https://github.com/AmanxUpadhyay/dotfiles) | A fresh-Mac blueprint for an AI-assisted engineering environment (Claude Code hooks, Obsidian pipeline) |
-| [Kanban-Personal-Manager](https://github.com/AmanxUpadhyay/Kanban-Personal-Manager) | MERN-stack personal Kanban board with JWT auth and rich-text cards |
-| [SettleSense](https://github.com/AmanxUpadhyay/SettleSense) | Lightweight debt and credit tracker for settling up between people |
-
-## GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AmanxUpadhyay&show_icons=true&include_all_commits=true&hide_border=true&title_color=fca311&icon_color=fca311&text_color=c9d1d9&bg_color=0d1117)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanxUpadhyay&layout=compact&langs_count=8&hide_border=true&title_color=fca311&text_color=c9d1d9&bg_color=0d1117)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=AmanxUpadhyay&hide_border=true&area=true&color=fca311&line=fca311&point=ffffff&bg_color=0d1117&title_color=fca311&custom_title=Contribution%20activity)
-
-</div>
 
 ## Background
 
@@ -84,3 +65,4 @@ I take products from a contract-first API to the app people actually touch: LLM-
 [![Holopin badges](https://holopin.me/amanxupadhyay)](https://holopin.io/@amanxupadhyay)
 
 </div>
+[![Outcode rank and score](https://outcode.lol/snippet/AmanxUpadhyay.svg?period=year&layout=wide)](https://outcode.lol/u/AmanxUpadhyay)
